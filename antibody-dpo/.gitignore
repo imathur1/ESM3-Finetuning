@@ -1,0 +1,7 @@
+data
+nohup.out
+.ipynb_checkpoints
+weights
+__pycache__
+wandb
+outputs
